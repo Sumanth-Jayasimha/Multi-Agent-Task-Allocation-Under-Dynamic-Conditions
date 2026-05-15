@@ -1,7 +1,7 @@
 # Multi-Agent-Task-Allocation-Under-Dynamic-Conditions
 Multi-agent task allocation simulation comparing greedy, auction-based, and Q-learning approaches under dynamic conditions.
 
-## 🚀 Overview
+##  Overview
 
 In real-world systems such as autonomous fleets, drones, or robotic swarms, tasks arrive dynamically and agents must decide:
 
@@ -17,7 +17,7 @@ This project simulates such an environment and evaluates three approaches:
 
 ---
 
-## ⚙️ System Design
+##  System Design
 
 The simulation models:
 
@@ -39,7 +39,7 @@ The simulation models:
 
 ---
 
-## 🧠 Methods Implemented
+##  Methods Implemented
 
 ### 1. Greedy Allocation
 - Assigns the closest feasible vehicle
@@ -60,7 +60,7 @@ The simulation models:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The following metrics were used:
 
@@ -71,7 +71,7 @@ The following metrics were used:
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 Across multiple simulation runs:
 
@@ -84,5 +84,3 @@ The results highlight that:
 - Reinforcement learning benefits from richer state representation and longer training
 
 ---
-
-## 📁 Project Structure
